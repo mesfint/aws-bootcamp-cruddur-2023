@@ -21,7 +21,8 @@
          I have AWS account , the Details of my account is found in student portal submission.
    ####  6 – Install AWS CLI
    
-        I Installed AWS CLI on Ubuntu 20.4 with the following ** command **
+   I Installed AWS CLI on Ubuntu 20.4 with the following **command**
+   [The Instrucxtion to Install on Linux can be found from this link.](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-   install.html)
         
    ```
    curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
