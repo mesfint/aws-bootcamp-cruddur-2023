@@ -7,6 +7,7 @@
          Already have account
     
    ####  1b – Set up MFA on your Github Account
+   
          My github account has multifactor Authentication using google authenticatore from my Android phone.
          
    ####  2 – Create a Free Gitpod Account
@@ -19,6 +20,7 @@
    ####  5 – Create Your Free AWS Account
          I have AWS account , the Details of my account is found in student portal submission.
    ####  6 – Install AWS CLI
+   
         I Installed AWS CLI on Ubuntu 20.4 with the following ** command **
         
    ```
@@ -38,6 +40,7 @@
    **Note to Insert Image**
    
    ![S3 bucket](https://github.com/mesfint/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/create-s3-bucket-cli.png)
+   
    ####  8– Create Your Free Honeycomb.io Account
          I have created
    ####  9 – Create Your Free Rollbar Account
