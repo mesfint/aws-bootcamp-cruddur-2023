@@ -18,6 +18,14 @@
          I have AWS account , the Details of my account is found in student portal submission.
    ####  5 – Create Your Free AWS Account
          I have AWS account , the Details of my account is found in student portal submission.
+   ####  6 – Install AWS CLI
+        I Installed AWS CLI on Ubuntu 20.4 with the following command
+      ```
+        curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+         unzip awscliv2.zip
+         sudo ./aws/install
+        
+      ```
    ####  6 – Create and Launching AWS CloudShell and looking at AWS CLI
          I have created AWS CLI and tested by creating aws s3 bucket from the CLI
    ![AWS CLI in Practice](https://github.com/mesfint/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/aws-cli.png)
