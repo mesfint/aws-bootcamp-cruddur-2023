@@ -27,7 +27,9 @@
    sudo ./aws/install 
         
    ```
+   **Note to Insert Image**
    ![AWS CLI in Practice](https://github.com/mesfint/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/aws-cli.png)
+    **Note to Insert Image** **Note to Insert Image**
    
    ####  7 – Create and Launching AWS CloudShell and looking at AWS CLI
          I have created AWS CLI and tested by creating aws s3 bucket from the CLI
