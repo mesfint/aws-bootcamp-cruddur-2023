@@ -8,7 +8,9 @@
     
    ####  1b – Set up MFA on your Github Account
    
-         My github account has multifactor Authentication using google authenticatore from my Android phone.
+         My github account has multifactor Authentication using google au **Note to Insert Image**
+    
+   ![S3 bucket](https://github.com/mesfint/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/create-s3-bucket-cli.png)thenticatore from my Android phone.
          
    ####  2 – Create a Free Gitpod Account
          I have created free Gitpod Account, Also have chrom extension which provides gitpod button in github.
@@ -20,6 +22,15 @@
    ####  5 – Create Your Free AWS Account
          I have AWS account , the Details of my account is found in student portal submission.
          [The Instrucxtion to Install on Linux can be found from this link](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+   ####  6 - Use CloudShell
+   I Tested cloudShell by  creating a bucket in S3 api the command to create a bucket is as follows
+    **Note to Insert Image**
+    
+   ![S3 bucket](https://github.com/mesfint/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/create-s3-bucket-cli.png)
+   
+   **Note to Insert Image**
+    
+   ![S3 bucket](https://github.com/mesfint/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/create-s3-bucket-cli.png)
    ####  6 – Install AWS CLI
    
    I Installed AWS CLI on Ubuntu 20.4 using  the following **command**
@@ -47,9 +58,7 @@
    **Note to Insert Image**   
    ![Proof of Budget alert](https://github.com/mesfint/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/budget.png)
          
-   **Note to Insert Image**
-   
-   ![S3 bucket](https://github.com/mesfint/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/create-s3-bucket-cli.png)
+  
    
    ####  9– Create Your Free Honeycomb.io Account
          I have created
