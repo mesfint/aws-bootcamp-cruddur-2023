@@ -19,7 +19,7 @@
          I have AWS account , the Details of my account is found in student portal submission.
    ####  5 – Create Your Free AWS Account
          I have AWS account , the Details of my account is found in student portal submission.
-         
+         [The Instrucxtion to Install on Linux can be found from this link](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
    ####  6 – Install AWS CLI
    
    I Installed AWS CLI on Ubuntu 20.4 using  the following **command**
@@ -31,7 +31,7 @@
    sudo ./aws/install 
         
    ```
-   [The Instruction to Install on Linux can be found from this link](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+   [The Instruction to Install aws cli on Linux can be found from this link](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
    
    **Note to Insert Image**
    
