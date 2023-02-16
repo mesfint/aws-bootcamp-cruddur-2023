@@ -4,7 +4,7 @@
   
    #### 1. Create a Free Github Account
    
-         ``` Already have account ```
+         Already have account
     
   1b – Set up MFA on your Github Account
   2 – Create a Free Gitpod Account
