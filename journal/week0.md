@@ -1,9 +1,10 @@
 # Week 0 — Billing and Architecture
 
-  ##  Required Tasks for week 0
+   ##  Required Tasks for week 0
   
-    ###  – Create a Free Github Account
+      ### Create a Free Github Account
     Already have account
+    
   1b – Set up MFA on your Github Account
   2 – Create a Free Gitpod Account
   3 – Set up Github Codespaces
