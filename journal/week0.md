@@ -12,7 +12,7 @@
          
    ####  2 – Create a Free Gitpod Account
          I have created free Gitpod Account, Also have chrom extension which provides gitpod button in github.
-  
+  https://github.com/mesfint/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/budget.png
    ####  3 – Set up Github Codespaces
          Github Codespace created , so that I can easily work with gitpod as a virtual workspace for my repository. 
    ####  4 – Create Your Free AWS Account
@@ -42,7 +42,10 @@
          I have created AWS CLI and tested by creating aws s3 bucket from the CLI
          
    ####  8 – Create a Budget
-         I have created AWS CLI and tested by creating aws s3 bucket from the CLI
+          My budget threshhold is 1 USD, the alert will notify me If my consuption exceeds that 1usd.
+   
+   **Note to Insert Image**   
+   [Proof of Budget alert](https://github.com/mesfint/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/budget.png)
          
    **Note to Insert Image**
    
