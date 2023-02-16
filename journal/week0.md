@@ -13,8 +13,8 @@
    ![S3 bucket](https://github.com/mesfint/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/create-s3-bucket-cli.png)thenticatore from my Android phone.
          
    ####  2 – Create a Free Gitpod Account
-         I have created free Gitpod Account, Also have chrom extension which provides gitpod button in github.
-  https://github.com/mesfint/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/budget.png
+         I have created free Gitpod Account, Also have chrome extension which provides gitpod button in github.
+  
    ####  3 – Set up Github Codespaces
          Github Codespace created , so that I can easily work with gitpod as a virtual workspace for my repository. 
    ####  4 – Create Your Free AWS Account
