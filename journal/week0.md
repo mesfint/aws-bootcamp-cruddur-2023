@@ -45,7 +45,7 @@
           My budget threshhold is 1 USD, the alert will notify me If my consuption exceeds that 1usd.
    
    **Note to Insert Image**   
-   [Proof of Budget alert](https://github.com/mesfint/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/budget.png)
+   ![Proof of Budget alert](https://github.com/mesfint/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/budget.png)
          
    **Note to Insert Image**
    
