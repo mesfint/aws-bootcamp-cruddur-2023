@@ -31,7 +31,7 @@
    ```
    **Note to Insert Image**
    
-   ![AWS CLI in Practice](/assets/aws-cli.png)
+   ![AWS CLI in Practice](https://github.com/mesfint/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/aws-cli.png)
    
    
    ####  7 – Create and Launching AWS CloudShell and looking at AWS CLI
