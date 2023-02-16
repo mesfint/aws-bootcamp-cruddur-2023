@@ -20,7 +20,7 @@
          I have AWS account , the Details of my account is found in student portal submission.
    ####  6 – Create and Launching AWS CloudShell and looking at AWS CLI
          I have created AWS CLI and tested by creating aws s3 bucket from the CLI
-         [AWS CLI in Practice](https://github.com/mesfint/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/aws-cli.png)
+         ![AWS CLI in Practice](https://github.com/mesfint/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/aws-cli.png)
    ####  7– Create Your Free Honeycomb.io Account
          I have created
    ####  8 – Create Your Free Rollbar Account
