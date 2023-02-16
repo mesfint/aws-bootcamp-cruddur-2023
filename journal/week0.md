@@ -6,7 +6,9 @@
    
          Already have account
     
-  1b – Set up MFA on your Github Account
+   ####  1b – Set up MFA on your Github Account
+         My github account has multifactor Authentication using google authenticatore from my Android phone.
+         
   2 – Create a Free Gitpod Account
   3 – Set up Github Codespaces
   4 – Create Your Free AWS Account
