@@ -38,14 +38,17 @@
    ![AWS CLI in Practice](https://github.com/mesfint/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/aws-cli.png)
    
    
-   ####  7 – Create and Launching AWS CloudShell and looking at AWS CLI
+   ####  7 – Create Create Billing Alarm
+         I have created AWS CLI and tested by creating aws s3 bucket from the CLI
+         
+   ####  8 – Create a Budget
          I have created AWS CLI and tested by creating aws s3 bucket from the CLI
          
    **Note to Insert Image**
    
    ![S3 bucket](https://github.com/mesfint/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/create-s3-bucket-cli.png)
    
-   ####  8– Create Your Free Honeycomb.io Account
+   ####  9– Create Your Free Honeycomb.io Account
          I have created
-   ####  9 – Create Your Free Rollbar Account
+   ####  10 – Create Your Free Rollbar Account
          I have created
