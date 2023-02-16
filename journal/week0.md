@@ -24,15 +24,15 @@
    ```
    curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
    unzip awscliv2.zip
-   sudo ./aws/install
+   sudo ./aws/install 
         
    ```
-   ####  6 – Create and Launching AWS CloudShell and looking at AWS CLI
+   ####  7 – Create and Launching AWS CloudShell and looking at AWS CLI
          I have created AWS CLI and tested by creating aws s3 bucket from the CLI
    ![AWS CLI in Practice](https://github.com/mesfint/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/aws-cli.png)
    ||
    ![S3 bucket](https://github.com/mesfint/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/create-s3-bucket-cli.png)
-   ####  7– Create Your Free Honeycomb.io Account
+   ####  8– Create Your Free Honeycomb.io Account
          I have created
-   ####  8 – Create Your Free Rollbar Account
+   ####  9 – Create Your Free Rollbar Account
          I have created
