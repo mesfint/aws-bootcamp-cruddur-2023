@@ -16,9 +16,12 @@
          Github Codespace created , so that I can easily work with gitpod as a virtual workspace for my repository. 
    ####  4 – Create Your Free AWS Account
          I have AWS account , the Details of my account is found in student portal submission.
-   ####  5 – Create Your Free LucidChart AccountAlready have account
-         I have created a free trial LuciChart account, and working on my first chart for the microservice project.
-   ####  8 – Create Your Free Honeycomb.io Account
+   ####  5 – Create Your Free AWS Account
+         I have AWS account , the Details of my account is found in student portal submission.
+   ####  6 – Create and Launching AWS CloudShell and looking at AWS CLI
+         I have created AWS CLI and tested by creating aws s3 bucket from the CLI
+         
+   ####  7– Create Your Free Honeycomb.io Account
          I have created
-   ####  9 – Create Your Free Rollbar Account
+   ####  8 – Create Your Free Rollbar Account
          I have created
