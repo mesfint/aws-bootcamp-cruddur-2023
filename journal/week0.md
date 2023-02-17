@@ -8,22 +8,20 @@
     
    ####  1b – Set up MFA on your Github Account
    
-         My github account has multifactor Authentication using google au **Note to Insert Image**
-    
-   ![S3 bucket](https://github.com/mesfint/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/create-s3-bucket-cli.png)thenticatore from my Android phone.
-         
+         My github account has multifactor Authentication using google authenticatore from my Android phone.
+        
    ####  2 – Create a Free Gitpod Account
          I have created free Gitpod Account, Also have chrome extension which provides gitpod button in github.
   
    ####  3 – Set up Github Codespaces
          Github Codespace created , so that I can easily work with gitpod as a virtual workspace for my repository. 
-   ####  4 – Create Your Free AWS Account
-         I have AWS account , the Details of my account is found in student portal submission.
+
    ####  5 – Create Your Free AWS Account
-         I have AWS account , the Details of my account is found in student portal submission.
-         [The Instrucxtion to Install on Linux can be found from this link](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+   I have AWS account already , the Details of my account is found in student portal submission.
+   [ Instruction to Install Aws CLI on Linux can be found from this link](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+   
    ####  6 - Use CloudShell
-   I Tested cloudShell by  creating a bucket in S3 api the command to create a bucket is as follows
+   I Tested cloudShell by  creating a bucket in S3 storage the command to create a bucket is as follows
     **Note to Insert Image**
     
    ![S3 bucket](https://github.com/mesfint/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/create-s3-bucket-cli.png)
@@ -42,7 +40,7 @@
    sudo ./aws/install 
         
    ```
-   [The Instruction to Install aws cli on Linux can be found from this link](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+   [Instruction to Install aws cli on Linux can be found from this link](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
    
    **Note to Insert Image**
    
