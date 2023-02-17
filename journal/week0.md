@@ -16,11 +16,11 @@
    ####  3 – Set up Github Codespaces
          Github Codespace created , so that I can easily work with gitpod as a virtual workspace for my repository. 
 
-   ####  5 – Create Your Free AWS Account
+   ####  4 – Create Your Free AWS Account
    I have AWS account already , the Details of my account is found in student portal submission.
    [ Instruction to Install Aws CLI on Linux can be found from this link](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
    
-   ####  6 - Use CloudShell
+   ####  5 - Use CloudShell
    I Tested cloudShell by  creating a bucket in S3 storage the command to create a bucket is as follows
     **Note to Insert Image**
     
@@ -29,11 +29,15 @@
    **Note to Insert Image**
     
    ![S3 bucket](https://github.com/mesfint/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/create-s3-bucket-cli.png)
-   ####  6 – Install AWS CLI
+   
+   ####  6 –Test cloudShell
+   I tested cloudShell from aws inbuilt terminal and created simple bucket in s3 storage like below.
+   ![create a bucket using cloudShell](https://github.com/mesfint/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/cloudshell.png)
+   
+   ###¤ 7 - Install Aws cli
    
    I Installed AWS CLI on Ubuntu 20.4 using  the following **command**
-   
-        
+           
    ```
    curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
    unzip awscliv2.zip
@@ -55,8 +59,12 @@
    
    **Note to Insert Image**   
    ![Proof of Budget alert](https://github.com/mesfint/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/budget.png)
+   
+   #### 9 - Recreate Logical Architecture Diagram in Lucid Charts
+   I have created the diagram as shown below, The diagram is a simple one, thatI have tried to incoorporate some aws services that will enhance the      microservice application performance.As I learn more about each services I would add more...
+  **Note to Insert Image**
+   ![Logical conceptual diagram](https://github.com/mesfint/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/conceptual-diagram.png)
          
-  
    
    ####  9– Create Your Free Honeycomb.io Account
          I have created
