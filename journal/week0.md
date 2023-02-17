@@ -20,19 +20,14 @@
    I have AWS account already , the Details of my account is found in student portal submission.
    [ Instruction to Install Aws CLI on Linux can be found from this link](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
    
-   ####  5 - Use CloudShell
-   I Tested cloudShell by  creating a bucket in S3 storage the command to create a bucket is as follows
-    **Note to Insert Image**
-    
-   ![S3 bucket](https://github.com/mesfint/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/create-s3-bucket-cli.png)
+  
+   ####  6 –Test cloudShell
+   I tested cloudShell from aws inbuilt terminal and created simple bucket in s3 storage like below.
+   ![create a bucket using cloudShell](https://github.com/mesfint/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/cloudshell.png)
    
    **Note to Insert Image**
     
    ![S3 bucket](https://github.com/mesfint/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/create-s3-bucket-cli.png)
-   
-   ####  6 –Test cloudShell
-   I tested cloudShell from aws inbuilt terminal and created simple bucket in s3 storage like below.
-   ![create a bucket using cloudShell](https://github.com/mesfint/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/cloudshell.png)
    
    ###¤ 7 - Install Aws cli
    
