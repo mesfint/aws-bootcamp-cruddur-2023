@@ -41,7 +41,7 @@
    ```
    [Instruction to Install aws cli on Linux can be found from this link](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
    
-   **Note to Insert Image**
+   **Note to Insert Image** 
    
    ![AWS CLI in Practice](https://github.com/mesfint/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/aws-cli.png)
    
