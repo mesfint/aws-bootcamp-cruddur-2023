@@ -47,7 +47,7 @@
    
    
    ####  7 – Create Create Billing Alarm
-         I have created AWS CLI and tested by creating aws s3 bucket from the CLI
+         I have created a  billing alarm following Brown video , My billing alarm will come as email.
          
    ####  8 – Create a Budget
           My budget threshhold is 1 USD, the alert will notify me If my consuption exceeds that 1usd.
